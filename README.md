@@ -39,4 +39,4 @@ Copyright gfycat.com
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/i2a53we4yecmaav7/=true)](https://ci.appveyor.com/project/escapefromserpukhov/doom)
+[![Build status](https://ci.appveyor.com/api/projects/status/xoevsjvmwye0e5qx?svg=true)](https://ci.appveyor.com/project/escapefromserpukhov/doom)
