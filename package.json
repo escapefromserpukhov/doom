@@ -2,8 +2,8 @@
   "name": "AHJ-2.1",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/222Alexa/AHJ-2.1.git",
-  "author": "Alexandra Titova <auto-steklo@mail.ru>",
+  "repository": "https://github.com/escapefromserpukhov/doom.git",
+  "author": "Viktory <vik59855949@mail.ru>",
   "license": "MIT",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
